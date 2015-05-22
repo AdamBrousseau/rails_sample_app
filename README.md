@@ -1,4 +1,4 @@
-== README
+== README NOW
 
 # Ruby on Rails Tutorial: sample application
 

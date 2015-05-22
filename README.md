@@ -1,4 +1,4 @@
-== README NOW NEVER
+== README
 
 # Ruby on Rails Tutorial: sample application
 
